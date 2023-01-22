@@ -7,6 +7,7 @@ This app with ask the user for some information about themselves and generate an
 ### App Walk-though
 
 ![](<img src='https://i.imgur.com/C69q92.gif' width=200><br>)  
+<img src="https://i.imgur.com/C69q92.gif" width=350 alt="Demo GIF"><br>
 
 
 ### Required Features
