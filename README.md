@@ -6,9 +6,7 @@ This app with ask the user for some information about themselves and generate an
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<img src='https://i.imgur.com/C69q92.gif' width=200><br>  
+![](<img src='https://i.imgur.com/C69q92.gif' width=200><br>)  
 
 
 ### Required Features
