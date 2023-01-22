@@ -1,7 +1,6 @@
 # codepath-prework
 Codepath prework project
 
-
 App Description
 
 This app with ask the user for some information about themselves and generate an introduction 
